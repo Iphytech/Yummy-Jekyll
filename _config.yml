@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Yummy Theme # ex. I m Chuan
-name: Your Name # ex. DONGChuan
-email: my_email_address@lalala.com
-location: My location # ex. Nice, France
-company: MyCompany
-company_url: my_company_website
-github_url: my_github_url # ex. https://github.com/DONGChuan
-github_username: # ex. DONGChuan
-description: description_of_your_web_site
+title: My Online presence # ex. I m Chuan
+name: Ifunanya Ikemma # ex. DONGChuan
+email: ifunanyaikemma@gmail.com
+location: Enugu # ex. Nice, France
+company: University
+company_url: iphytech.me
+github_url: https://github.com/Iphytech # ex. https://github.com/DONGChuan
+github_username: Iphytech # ex. DONGChuan
+description: My page
 favicon: favicon.png # Image must be in assets/images
-repository: github_username/github_username.github.io # ex. DONGChuan/DONGChuan.github.io
+repository: Iphytech/Iphytech.github.io # ex. DONGChuan/DONGChuan.github.io
 
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
@@ -48,7 +48,7 @@ kramdown:
   enable_coderay: true
 
 # Disque
-disque: my_disque_settings # ex. httpdongchuangithubio.disqus.com
+disque: https://iphytech.disqus.com # ex. httpdongchuangithubio.disqus.com
 
 # Pagination
 paginate: 10
@@ -81,13 +81,13 @@ side_bar_repo_limit: 5 # Number of repos to show
 
 # Google Analytics
 analytics :
-  provider : google
-  google :
-      tracking_id : 'tracking_id'  # ex. UA-72165600-X
+provider : google
+google :
+tracking_id : 'UA-110059927-1'  # ex. UA-72165600-X
 
 
 # For about.html. Fell free to create your own!
-skill_software_keywords: [Java, C, C++, Qt, Python, MySQL, Oracle, SQLite, PL/SQL, Design Patterns]
+skill_software_keywords: [C++ Python, MySQL, SQLite, PL/SQL, Design Patterns]
 skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
-skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, AngularJS, NodeJS, ExpressJS, MongoDB, Redis, PHP, Symfony, Boostrap]
-skill_mobile_app_keywords: [Android, Sketch UI Desgin]
+skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, VueJS, NodeJS, ExpressJS, MongoDB, PHP, Material design, Bulma, Boostrap]
+skill_mobile_app_keywords: [ Sketch UI Desgin]
