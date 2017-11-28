@@ -10,7 +10,7 @@ title: My Online presence # ex. I m Chuan
 name: Ifunanya Ikemma # ex. DONGChuan
 email: ifunanyaikemma@gmail.com
 location: Enugu # ex. Nice, France
-company: University
+company: University of Nigeria Nsukka
 company_url: iphytech.me
 github_url: https://github.com/Iphytech # ex. https://github.com/DONGChuan
 github_username: Iphytech # ex. DONGChuan
@@ -87,7 +87,6 @@ tracking_id : 'UA-110059927-1'  # ex. UA-72165600-X
 
 
 # For about.html. Fell free to create your own!
-skill_software_keywords: [C++ Python, MySQL, SQLite, PL/SQL, Design Patterns]
-skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
+skill_software_keywords: [C++ Python, MySQL, SQLite, Design Patterns]
 skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, VueJS, NodeJS, ExpressJS, MongoDB, PHP, Material design, Bulma, Boostrap]
-skill_mobile_app_keywords: [ Sketch UI Desgin]
+skill_mobile_app_keywords: [ UI Desgin]
